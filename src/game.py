@@ -12,7 +12,7 @@ def exibir_palavra_secreta(palavra):
 # cria uma pausa e depois limpa o terminal                     
 def limpar_console():
     sleep(3)
-    system("clear")
+    system("cls")
     
 # executa o jogo    
 def jogar():
